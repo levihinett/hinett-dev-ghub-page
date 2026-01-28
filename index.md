@@ -14,6 +14,7 @@ I like turning “cool ideas” into **documented, testable work**: threat model
 ---
 
 ## Projects
+*Work in progress*
 
 ---
 
